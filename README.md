@@ -1,5 +1,7 @@
 #AddMVCModuleDynamic
 ##A very simple version of how to make ASP.NET MVC modular
+## Tools 
+Visual Studio 2013, C#, MVC
 
 This mvc web application template demostrate how you can dynamic add mvc projects to your main web mvc application.
 
